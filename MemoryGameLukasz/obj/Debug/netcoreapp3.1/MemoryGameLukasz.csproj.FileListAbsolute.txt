@@ -1,0 +1,14 @@
+D:\GitHub\MemoryGame\MemoryGameLukasz\bin\Debug\netcoreapp3.1\MemoryGameLukasz.exe
+D:\GitHub\MemoryGame\MemoryGameLukasz\bin\Debug\netcoreapp3.1\MemoryGameLukasz.deps.json
+D:\GitHub\MemoryGame\MemoryGameLukasz\bin\Debug\netcoreapp3.1\MemoryGameLukasz.runtimeconfig.json
+D:\GitHub\MemoryGame\MemoryGameLukasz\bin\Debug\netcoreapp3.1\MemoryGameLukasz.runtimeconfig.dev.json
+D:\GitHub\MemoryGame\MemoryGameLukasz\bin\Debug\netcoreapp3.1\MemoryGameLukasz.dll
+D:\GitHub\MemoryGame\MemoryGameLukasz\bin\Debug\netcoreapp3.1\MemoryGameLukasz.pdb
+D:\GitHub\MemoryGame\MemoryGameLukasz\obj\Debug\netcoreapp3.1\MemoryGameLukasz.csproj.AssemblyReference.cache
+D:\GitHub\MemoryGame\MemoryGameLukasz\obj\Debug\netcoreapp3.1\MemoryGameLukasz.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\MemoryGame\MemoryGameLukasz\obj\Debug\netcoreapp3.1\MemoryGameLukasz.AssemblyInfoInputs.cache
+D:\GitHub\MemoryGame\MemoryGameLukasz\obj\Debug\netcoreapp3.1\MemoryGameLukasz.AssemblyInfo.cs
+D:\GitHub\MemoryGame\MemoryGameLukasz\obj\Debug\netcoreapp3.1\MemoryGameLukasz.csproj.CoreCompileInputs.cache
+D:\GitHub\MemoryGame\MemoryGameLukasz\obj\Debug\netcoreapp3.1\MemoryGameLukasz.dll
+D:\GitHub\MemoryGame\MemoryGameLukasz\obj\Debug\netcoreapp3.1\MemoryGameLukasz.pdb
+D:\GitHub\MemoryGame\MemoryGameLukasz\obj\Debug\netcoreapp3.1\MemoryGameLukasz.genruntimeconfig.cache
